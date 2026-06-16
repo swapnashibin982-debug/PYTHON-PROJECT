@@ -1,4 +1,4 @@
-# 📊 Adolescent Birth Rate Analysis (WHO Data) – Short Description (One by One)
+# 📊 Adolescent Birth Rate Analysis 
 
 ### 1. Introduction
 
